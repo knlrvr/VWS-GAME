@@ -1,4 +1,21 @@
-# VWS-GAME
-A Rock, Paper, Scissors game replaced with Vampires, Werewolves, and Skeletons
+<h2 align="center">
+  Vampire, Werewolf, Skeleton <br/>
+</h2>
 
-![Screen Shot 2022-09-22 at 9 06 40 AM](https://user-images.githubusercontent.com/91632194/191755970-37478e85-444a-464a-b332-8e184bfed859.png)
+![Screen Shot 2022-09-22 at 9 06 40 AM](https://user-images.githubusercontent.com/91632194/191756298-d81f81f9-c0e8-430a-b0f9-9ac413b112c7.png)
+
+<br/>
+
+## TL;DR
+A Rock, Paper, Scissors style game called Vampire, Werewolf, Skeleton. 
+Vampire beats Werewolf. Werewolf beats Skeleton. Skeleton beats Vampire. 
+
+
+## Built With
+
+This project was built using;
+
+- HTML
+- CSS
+- JavaScript
+
