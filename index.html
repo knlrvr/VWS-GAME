@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title> V W S </title>
+</head>
+<body>
+	<section class="game">
+        <!--
+		<div class="title"> Vampire | Werewolf | Skeleton </div>
+        --> 
+		
+		<!--Display Scores-->
+		<div class="score">
+			<div class="playerScore">
+				<h2> Player </h2>
+				<p class="p-count count">0</p>
+			</div>	
+			<div class="computerScore">
+				<h2> Ghost </h2>
+				<p class="c-count count">0</p>
+			</div>
+		</div>
+        
+		<div class="move"> Choose your attack! </div>
+		
+		<!--Number of moves before game ends -->
+		<div class="movesleft">Moves Left: 5 </div>
+		
+		<!--Options -->
+		<div class="options">
+			<button class="vampire"> Vampire </button>
+			<button class="werewolf"> Werewolf </button>
+			<button class="skeleton"> Skeleton </button>
+		</div>
+		
+		<!--Final result -->
+		<div class="result"></div>
+		
+		<!--Reload -->
+		<button class="reload"></button>
+
+
+        <!-- Hints -->
+        <div class="hints">
+            <h3><i>hint:</i></h3>
+            <br>
+            <p> Vampire beats Werewolf. 
+                Werewolf beats Skeleton. 
+                Skeleton beats Vampire.
+            </p>
+        </div>
+
+
+	</section>
+
+	<script src="scripts.js"></script>
+</body>
+</html>
