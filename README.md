@@ -9,6 +9,7 @@
 ## TL;DR
 A Rock, Paper, Scissors style game called Vampire, Werewolf, Skeleton. 
 Vampire beats Werewolf. Werewolf beats Skeleton. Skeleton beats Vampire. 
+Infinitely more stressful and far more of a hassle than just playing classic Rock, Paper, Scissors. 
 
 
 ## Built With
